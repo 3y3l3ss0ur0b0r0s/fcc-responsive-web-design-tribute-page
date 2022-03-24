@@ -1,5 +1,5 @@
 # fcc-responsive-web-design-tribute-page
-**The description for this freeCodeCamp project is below:**
+**The description for this freeCodeCamp project is below. [The project is located here.](https://codepen.io/3y3l3ss0ur0b0r0s/full/abEBNVM)**
 
 >Build a Tribute Page
 >Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
